@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Alexander's personal site has been launched today!"
+title: "My personal site has been launched today!"
 date: 2017-09-16
 ---
 
