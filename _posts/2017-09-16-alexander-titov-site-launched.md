@@ -7,7 +7,7 @@ date: 2017-09-16
 <p>Hi everyone,</p>
 
 <p>My name is Alexander Titov. I am a CPU HW Architect/Micro-Architect/Researcher and EECS Lecturer.
-I am also like writing code in C++ and Python.</p>
+I also like writing code in C++ and Python.</p>
 
 <p>Finally, I managed to start my own personal site. I am going to use it to post my lectures, articles, and thoughts.</p>
 
