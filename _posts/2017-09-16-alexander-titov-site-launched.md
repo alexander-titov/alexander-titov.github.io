@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Alexander Titov's personal site has been launched today!"
-date: 2017-16-09
+date: 2017-09-16
 ---
 
 <p>Hi everyone,</p>
