@@ -1,8 +1,16 @@
-I highly recommend watching the Dave Ditzel's interview hosted by the Computer History Museum:
-https://lnkd.in/gPiiVQ5
+---
+layout: post
+title: "Dave Ditzel's interview at Computer History Museum"
+date: 2017-09-24
+---
 
-In particular, the part about his work with Boris Babayan at early 90-s:
-https://lnkd.in/gcRk64A
+<p>Hi everyone,</p>
 
-And the part where he is talking about the Intel's Moscow team. He describes our project as "probably, the single most innovated architecture at Intel":
-https://lnkd.in/gnzNsqm
+<p>I highly recommend watching <a href="https://youtu.be/etta_NYCVxA" title="Dave Ditzel's interview, youtube.com">the Dave Ditzel's interview</a> hosted by <a href="http://www.computerhistory.org/">the Computer History Museum</a>:</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/etta_NYCVxA?rel=0" frameborder="0" allowfullscreen></iframe>
+
+<p>I found insterinsting the part (<a href="https://youtu.be/etta_NYCVxA?t=3848" title="Dave Ditzel's interview, youtube.com, starting at 1:04:08">1:04:08</a>) about his work with <a href="https://newsroom.intel.com/editorials/pioneering-architect-soviet-era-computing/">Boris Babayan</a> at early 90-s. I have participated in several projectes led by Boris. He is, probably, the most exciting and talanted technical person I have ever met.</p>
+
+<p>In addition, I would like to highlight the part (<a href="https://youtu.be/etta_NYCVxA?t=4338" title="Dave Ditzel's interview, youtube.com, starting at 1:12:18">1:12:18</a>) where he is talking about the Intel's Moscow team. He describes the project we did that time as <q>probably, the single most innovated architecture at Intel</q>.</p>
+
+<p>Regards,<br>Alexander Titov</p>
