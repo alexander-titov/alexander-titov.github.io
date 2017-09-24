@@ -13,4 +13,6 @@ date: 2017-09-24
 
 <p>In addition, I would like to highlight the part (<a href="https://youtu.be/etta_NYCVxA?t=4338" title="Dave Ditzel's interview, youtube.com, starting at 1:12:18">1:12:18</a>) where Dave is talking about the Intel's Moscow team. He describes the project we did that time as <q>probably, the single most innovated architecture at Intel</q>.</p>
 
+You can download the text version of the interview by clicking <a href="/blog/downloads/oral_history_of_david_ditzel_by_computer_history_museum.pdf" title="oral_history_of_david_ditzel_by_computer_history_museum.pdf">this link</a>. 
+
 <p>Regards,<br>Alexander Titov</p>
