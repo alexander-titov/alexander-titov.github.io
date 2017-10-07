@@ -2,6 +2,7 @@
 layout: post
 title: "My personal site has been launched today!"
 date: 2017-09-16
+comments: true
 ---
 
 <p>Hi everyone,</p>
