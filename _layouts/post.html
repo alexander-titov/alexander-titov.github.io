@@ -29,6 +29,11 @@ s.src = 'https://atitov.disqus.com/embed.js';
 s.setAttribute('data-timestamp', +new Date());
 (d.head || d.body).appendChild(s);
 })();
+
+(function() {
+var disqus_footer = document.getElementById("footer").getElementsByClassName("disqus-footer__wrapper").getElementsByTagName("div");
+disqus_footer.style.display = "none";
+})();
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
                             
