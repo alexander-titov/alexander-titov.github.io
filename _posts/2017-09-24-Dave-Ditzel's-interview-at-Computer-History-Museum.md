@@ -2,6 +2,7 @@
 layout: post
 title: "Dave Ditzel's interview at Computer History Museum"
 date: 2017-09-24
+comments: true
 ---
 
 <p>Hi everyone,</p>
